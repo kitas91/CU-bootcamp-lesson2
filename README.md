@@ -1,2 +1,6 @@
-# CU-bootcamp-lesson2
-Second day of columbia 
+# CU-bootcamp-lesson3
+Third day of columbia computer engineering school 
+
+**Lets figure out how to upload commits to GitHub**
+
+
