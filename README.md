@@ -1,3 +1,17 @@
+Playing with formatting:
+# Sample heading I
+## Sample heading II
+### Sample heading III
+#### Sample heading IV
+
+*Italics*
+
+**Bold**
+
+**_This is bold italics_**
+
+
+
 # CU-bootcamp-lesson3
 Third day of Columbia computer engineering school - learning to use GitHub:
 
@@ -18,3 +32,20 @@ My goal is to pivot from capital markets into the FinTech space. I seek to be ab
 I believe that FinTech solutions will be a pivital theme in the future markets. Being able to efficiently measure risks associated with the capital markets will be a common theme in the FinTech space. # CU-bootcamp-lesson3
 Third day of columbia computer engineering school 
 
+
+*Creating Hyperlinks to our Folders*
+
+[code](code)
+
+[data](data)
+
+[references](references)
+
+* This is bullet one
+
+    *This is the sub bullet
+* This is bullet two
+* This is bullet three
+
+1. This is step 1
+2. This is step 2
